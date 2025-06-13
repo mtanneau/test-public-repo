@@ -1,3 +1,3 @@
 # Test repository
 
-Test commit on the main branch
+Test commit on the main branch.
