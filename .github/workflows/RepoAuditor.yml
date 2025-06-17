@@ -7,6 +7,6 @@ jobs:
   audit-repo:
     runs-on: ubuntu-latest
     steps:
-      - uses: mtanneau/repoauditor-action@v0.1.1
+      - uses: mtanneau/repoauditor-action@v0.1.2
         with:
           github_pat: ${{ secrets.REPO_AUDITOR_PAT }}
